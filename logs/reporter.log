@@ -1,0 +1,206 @@
+2022-06-09T13:37:05.450Z - info: Initializing jsreport (version: 3.6.2, configuration file: jsreport.config.json, nodejs: 16.14.2)
+2022-06-09T13:37:05.455Z - info: Searching for available extensions in C:\repos\diplom\foreduc-jsreport\
+2022-06-09T13:37:05.461Z - info: Extensions location cache not found, crawling directories
+2022-06-09T13:37:07.097Z - info: Found 35 extension(s)
+2022-06-09T13:37:07.234Z - info: Using extension base@3.0.0
+2022-06-09T13:37:07.242Z - info: Using extension child-templates@3.0.3
+2022-06-09T13:37:07.250Z - info: Using extension cli@3.2.1
+2022-06-09T13:37:07.256Z - info: Using extension components@3.2.1
+2022-06-09T13:37:07.259Z - info: Using extension data@3.0.1
+2022-06-09T13:37:07.262Z - info: Using extension express@3.4.1
+2022-06-09T13:37:07.749Z - info: Using extension freeze@3.0.1
+2022-06-09T13:37:07.753Z - info: Using extension fs-store@3.2.1
+2022-06-09T13:37:07.919Z - info: Using extension handlebars@3.1.0
+2022-06-09T13:37:07.923Z - info: Using extension import-export@3.1.2
+2022-06-09T13:37:07.948Z - info: Using extension jsrender@3.0.0
+2022-06-09T13:37:07.952Z - info: Using extension licensing@3.0.2
+2022-06-09T13:37:07.999Z - info: Using extension localization@3.2.1
+2022-06-09T13:37:08.003Z - info: Using extension npm@3.1.2
+2022-06-09T13:37:08.008Z - info: Using extension pdf-utils@3.4.1
+2022-06-09T13:37:08.011Z - info: Using extension reports@3.0.5
+2022-06-09T13:37:08.015Z - info: Using extension tags@3.1.0
+2022-06-09T13:37:08.021Z - info: Using extension text@3.0.0
+2022-06-09T13:37:08.023Z - info: Using extension version-control@3.1.1
+2022-06-09T13:37:08.047Z - info: Using extension assets@3.4.2
+2022-06-09T13:37:08.068Z - info: Using extension authorization@3.2.1
+2022-06-09T13:37:08.078Z - info: Using extension browser-client@3.1.1
+2022-06-09T13:37:08.083Z - info: Using extension chrome-pdf@3.1.2
+2022-06-09T13:37:08.092Z - info: Using extension docx@3.3.1
+2022-06-09T13:37:08.096Z - info: Using extension html-to-xlsx@3.2.2
+2022-06-09T13:37:08.268Z - info: html-to-xlsx detected chrome as available html engine
+2022-06-09T13:37:08.269Z - info: Using extension pptx@3.2.1
+2022-06-09T13:37:08.273Z - info: Using extension scheduling@3.0.2
+2022-06-09T13:37:08.341Z - info: Using extension scripts@3.2.1
+2022-06-09T13:37:08.343Z - info: Using extension static-pdf@3.0.0
+2022-06-09T13:37:08.355Z - info: Using extension studio@3.6.0
+2022-06-09T13:37:08.560Z - info: Using extension xlsx@3.2.1
+2022-06-09T13:37:08.606Z - info: Using extension public-templates@3.0.0
+2022-06-09T13:37:08.610Z - info: Using extension sample-template@3.2.1
+2022-06-09T13:37:08.615Z - info: Using extension studio-theme-dark@3.0.1
+2022-06-09T13:37:08.618Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2022-06-09T13:37:08.619Z - info: Using fs provider for template store.
+2022-06-09T13:37:08.633Z - info: fs store is persisting using fs for C:\repos\diplom\foreduc-jsreport\data
+2022-06-09T13:37:08.664Z - info: fs store is loading data
+2022-06-09T13:37:08.678Z - info: fs store is initialized successfully
+2022-06-09T13:37:08.788Z - info: Creating default express app.
+2022-06-09T13:37:08.825Z - info: jsreport server successfully started on http port: 5001
+2022-06-09T13:37:08.827Z - info: Verifying license key free
+2022-06-09T13:37:08.828Z - info: Using free license
+2022-06-09T13:37:08.864Z - info: Migrating templates chrome settings (waitForNetworkIddle -> waitForNetworkIdle)
+2022-06-09T13:37:08.876Z - info: Migration successful
+2022-06-09T13:37:10.785Z - info: Initializing jsreport (version: 3.6.2, configuration file: jsreport.config.json, nodejs: 16.14.2)
+2022-06-09T13:37:10.790Z - info: Searching for available extensions in C:\repos\diplom\foreduc-jsreport\
+2022-06-09T13:37:10.812Z - info: Extensions location cache contains up to date information, skipping crawling in C:\repos\diplom\foreduc-jsreport\
+2022-06-09T13:37:10.824Z - info: Found 35 extension(s)
+2022-06-09T13:37:10.956Z - info: Using extension base@3.0.0
+2022-06-09T13:37:10.970Z - info: Using extension child-templates@3.0.3
+2022-06-09T13:37:10.976Z - info: Using extension cli@3.2.1
+2022-06-09T13:37:10.981Z - info: Using extension components@3.2.1
+2022-06-09T13:37:10.990Z - info: Using extension data@3.0.1
+2022-06-09T13:37:10.992Z - info: Using extension express@3.4.1
+2022-06-09T13:37:11.459Z - info: Using extension freeze@3.0.1
+2022-06-09T13:37:11.467Z - info: Using extension fs-store@3.2.1
+2022-06-09T13:37:11.615Z - info: Using extension handlebars@3.1.0
+2022-06-09T13:37:11.618Z - info: Using extension import-export@3.1.2
+2022-06-09T13:37:11.641Z - info: Using extension jsrender@3.0.0
+2022-06-09T13:37:11.644Z - info: Using extension licensing@3.0.2
+2022-06-09T13:37:11.689Z - info: Using extension localization@3.2.1
+2022-06-09T13:37:11.692Z - info: Using extension npm@3.1.2
+2022-06-09T13:37:11.700Z - info: Using extension pdf-utils@3.4.1
+2022-06-09T13:37:11.704Z - info: Using extension reports@3.0.5
+2022-06-09T13:37:11.710Z - info: Using extension tags@3.1.0
+2022-06-09T13:37:11.713Z - info: Using extension text@3.0.0
+2022-06-09T13:37:11.715Z - info: Using extension version-control@3.1.1
+2022-06-09T13:37:11.737Z - info: Using extension assets@3.4.2
+2022-06-09T13:37:11.757Z - info: Using extension authorization@3.2.1
+2022-06-09T13:37:11.764Z - info: Using extension browser-client@3.1.1
+2022-06-09T13:37:11.769Z - info: Using extension chrome-pdf@3.1.2
+2022-06-09T13:37:11.775Z - info: Using extension docx@3.3.1
+2022-06-09T13:37:11.781Z - info: Using extension html-to-xlsx@3.2.2
+2022-06-09T13:37:11.887Z - info: html-to-xlsx detected chrome as available html engine
+2022-06-09T13:37:11.888Z - info: Using extension pptx@3.2.1
+2022-06-09T13:37:11.893Z - info: Using extension scheduling@3.0.2
+2022-06-09T13:37:11.960Z - info: Using extension scripts@3.2.1
+2022-06-09T13:37:11.963Z - info: Using extension static-pdf@3.0.0
+2022-06-09T13:37:11.966Z - info: Using extension studio@3.6.0
+2022-06-09T13:37:12.150Z - info: Using extension xlsx@3.2.1
+2022-06-09T13:37:12.193Z - info: Using extension public-templates@3.0.0
+2022-06-09T13:37:12.196Z - info: Using extension sample-template@3.2.1
+2022-06-09T13:37:12.202Z - info: Using extension studio-theme-dark@3.0.1
+2022-06-09T13:37:12.206Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2022-06-09T13:37:12.207Z - info: Using fs provider for template store.
+2022-06-09T13:37:12.215Z - info: fs store is persisting using fs for C:\repos\diplom\foreduc-jsreport\data
+2022-06-09T13:37:19.688Z - info: fs store is loading data
+2022-06-09T13:37:19.723Z - info: fs store is initialized successfully
+2022-06-09T13:37:19.746Z - info: Creating default express app.
+2022-06-09T13:37:19.785Z - info: jsreport server successfully started on http port: 5001
+2022-06-09T13:37:19.790Z - info: Verifying license key free
+2022-06-09T13:37:19.792Z - info: Using free license
+2022-06-09T13:37:19.798Z - info: Initializing worker threads
+2022-06-09T13:37:20.242Z - info: 2 worker threads initialized in 444ms
+2022-06-09T13:37:20.243Z - info: Starting temp files cleanup with 180000ms threshold
+2022-06-09T13:37:20.244Z - info: reporter initialized
+2022-06-09T13:38:31.535Z - info: Initializing jsreport (version: 3.6.2, configuration file: jsreport.config.json, nodejs: 16.14.2)
+2022-06-09T13:38:31.539Z - info: Searching for available extensions in C:\repos\diplom\foreduc-jsreport\
+2022-06-09T13:38:31.563Z - info: Extensions location cache contains up to date information, skipping crawling in C:\repos\diplom\foreduc-jsreport\
+2022-06-09T13:38:31.571Z - info: Found 35 extension(s)
+2022-06-09T13:38:31.695Z - info: Using extension base@3.0.0
+2022-06-09T13:38:31.705Z - info: Using extension child-templates@3.0.3
+2022-06-09T13:38:31.711Z - info: Using extension cli@3.2.1
+2022-06-09T13:38:31.716Z - info: Using extension components@3.2.1
+2022-06-09T13:38:31.721Z - info: Using extension data@3.0.1
+2022-06-09T13:38:31.723Z - info: Using extension express@3.4.1
+2022-06-09T13:38:32.249Z - info: Using extension freeze@3.0.1
+2022-06-09T13:38:32.253Z - info: Using extension fs-store@3.2.1
+2022-06-09T13:38:32.421Z - info: Using extension handlebars@3.1.0
+2022-06-09T13:38:32.424Z - info: Using extension import-export@3.1.2
+2022-06-09T13:38:32.446Z - info: Using extension jsrender@3.0.0
+2022-06-09T13:38:32.449Z - info: Using extension licensing@3.0.2
+2022-06-09T13:38:32.500Z - info: Using extension localization@3.2.1
+2022-06-09T13:38:32.503Z - info: Using extension npm@3.1.2
+2022-06-09T13:38:32.511Z - info: Using extension pdf-utils@3.4.1
+2022-06-09T13:38:32.515Z - info: Using extension reports@3.0.5
+2022-06-09T13:38:32.520Z - info: Using extension tags@3.1.0
+2022-06-09T13:38:32.525Z - info: Using extension text@3.0.0
+2022-06-09T13:38:32.526Z - info: Using extension version-control@3.1.1
+2022-06-09T13:38:32.549Z - info: Using extension assets@3.4.2
+2022-06-09T13:38:32.566Z - info: Using extension authorization@3.2.1
+2022-06-09T13:38:32.576Z - info: Using extension browser-client@3.1.1
+2022-06-09T13:38:32.580Z - info: Using extension chrome-pdf@3.1.2
+2022-06-09T13:38:32.586Z - info: Using extension docx@3.3.1
+2022-06-09T13:38:32.591Z - info: Using extension html-to-xlsx@3.2.2
+2022-06-09T13:38:32.707Z - info: html-to-xlsx detected chrome as available html engine
+2022-06-09T13:38:32.708Z - info: Using extension pptx@3.2.1
+2022-06-09T13:38:32.713Z - info: Using extension scheduling@3.0.2
+2022-06-09T13:38:32.799Z - info: Using extension scripts@3.2.1
+2022-06-09T13:38:32.803Z - info: Using extension static-pdf@3.0.0
+2022-06-09T13:38:32.805Z - info: Using extension studio@3.6.0
+2022-06-09T13:38:32.999Z - info: Using extension xlsx@3.2.1
+2022-06-09T13:38:33.049Z - info: Using extension public-templates@3.0.0
+2022-06-09T13:38:33.054Z - info: Using extension sample-template@3.2.1
+2022-06-09T13:38:33.058Z - info: Using extension studio-theme-dark@3.0.1
+2022-06-09T13:38:33.062Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2022-06-09T13:38:33.063Z - info: Using fs provider for template store.
+2022-06-09T13:38:33.073Z - info: fs store is persisting using fs for C:\repos\diplom\foreduc-jsreport\data
+2022-06-09T13:38:33.110Z - info: fs store is loading data
+2022-06-09T13:38:33.149Z - info: fs store is initialized successfully
+2022-06-09T13:38:33.188Z - info: Creating default express app.
+2022-06-09T13:38:33.241Z - info: jsreport server successfully started on http port: 5001
+2022-06-09T13:38:33.248Z - info: Verifying license key free
+2022-06-09T13:38:33.253Z - info: Using free license
+2022-06-09T13:38:33.270Z - info: Initializing worker threads
+2022-06-09T13:38:33.688Z - info: 2 worker threads initialized in 418ms
+2022-06-09T13:38:33.689Z - info: Starting temp files cleanup with 180000ms threshold
+2022-06-09T13:38:33.691Z - info: reporter initialized
+2022-06-09T13:40:23.470Z - info: Initializing jsreport (version: 3.6.2, configuration file: jsreport.config.json, nodejs: 16.14.2)
+2022-06-09T13:40:23.479Z - info: Searching for available extensions in C:\repos\diplom\foreduc-jsreport\
+2022-06-09T13:40:23.514Z - info: Extensions location cache contains up to date information, skipping crawling in C:\repos\diplom\foreduc-jsreport\
+2022-06-09T13:40:23.541Z - info: Found 35 extension(s)
+2022-06-09T13:40:23.838Z - info: Using extension base@3.0.0
+2022-06-09T13:40:23.849Z - info: Using extension child-templates@3.0.3
+2022-06-09T13:40:23.862Z - info: Using extension cli@3.2.1
+2022-06-09T13:40:23.881Z - info: Using extension components@3.2.1
+2022-06-09T13:40:23.885Z - info: Using extension data@3.0.1
+2022-06-09T13:40:23.888Z - info: Using extension express@3.4.1
+2022-06-09T13:40:24.791Z - info: Using extension freeze@3.0.1
+2022-06-09T13:40:24.795Z - info: Using extension fs-store@3.2.1
+2022-06-09T13:40:25.043Z - info: Using extension handlebars@3.1.0
+2022-06-09T13:40:25.048Z - info: Using extension import-export@3.1.2
+2022-06-09T13:40:25.092Z - info: Using extension jsrender@3.0.0
+2022-06-09T13:40:25.097Z - info: Using extension licensing@3.0.2
+2022-06-09T13:40:25.166Z - info: Using extension localization@3.2.1
+2022-06-09T13:40:25.169Z - info: Using extension npm@3.1.2
+2022-06-09T13:40:25.179Z - info: Using extension pdf-utils@3.4.1
+2022-06-09T13:40:25.184Z - info: Using extension reports@3.0.5
+2022-06-09T13:40:25.190Z - info: Using extension tags@3.1.0
+2022-06-09T13:40:25.196Z - info: Using extension text@3.0.0
+2022-06-09T13:40:25.200Z - info: Using extension version-control@3.1.1
+2022-06-09T13:40:25.261Z - info: Using extension assets@3.4.2
+2022-06-09T13:40:25.285Z - info: Using extension authorization@3.2.1
+2022-06-09T13:40:25.301Z - info: Using extension browser-client@3.1.1
+2022-06-09T13:40:25.313Z - info: Using extension chrome-pdf@3.1.2
+2022-06-09T13:40:25.333Z - info: Using extension docx@3.3.1
+2022-06-09T13:40:25.344Z - info: Using extension html-to-xlsx@3.2.2
+2022-06-09T13:40:25.494Z - info: html-to-xlsx detected chrome as available html engine
+2022-06-09T13:40:25.496Z - info: Using extension pptx@3.2.1
+2022-06-09T13:40:25.500Z - info: Using extension scheduling@3.0.2
+2022-06-09T13:40:25.587Z - info: Using extension scripts@3.2.1
+2022-06-09T13:40:25.590Z - info: Using extension static-pdf@3.0.0
+2022-06-09T13:40:25.593Z - info: Using extension studio@3.6.0
+2022-06-09T13:40:25.841Z - info: Using extension xlsx@3.2.1
+2022-06-09T13:40:25.910Z - info: Using extension public-templates@3.0.0
+2022-06-09T13:40:25.916Z - info: Using extension sample-template@3.2.1
+2022-06-09T13:40:25.923Z - info: Using extension studio-theme-dark@3.0.1
+2022-06-09T13:40:25.926Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2022-06-09T13:40:25.928Z - info: Using fs provider for template store.
+2022-06-09T13:40:25.950Z - info: fs store is persisting using fs for C:\repos\diplom\foreduc-jsreport\data
+2022-06-09T13:40:26.006Z - info: fs store is loading data
+2022-06-09T13:40:26.027Z - info: fs store is initialized successfully
+2022-06-09T13:40:26.066Z - info: Creating default express app.
+2022-06-09T13:40:26.138Z - info: jsreport server successfully started on http port: 5001
+2022-06-09T13:40:26.141Z - info: Verifying license key free
+2022-06-09T13:40:26.143Z - info: Using free license
+2022-06-09T13:40:26.162Z - info: Initializing worker threads
+2022-06-09T13:40:27.267Z - info: 2 worker threads initialized in 1105ms
+2022-06-09T13:40:27.269Z - info: Starting temp files cleanup with 180000ms threshold
+2022-06-09T13:40:27.272Z - info: reporter initialized
